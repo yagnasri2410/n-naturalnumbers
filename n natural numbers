@@ -1,0 +1,8 @@
+S=int(input('enter start number')
+e=int(input('enter end nunber')
+for I in range (s,e+1,1)
+   Print(I,end=' ')
+Output: 
+enter start number 1
+enter end number 10
+1 2 3 4 5 6 7 8 9 10
